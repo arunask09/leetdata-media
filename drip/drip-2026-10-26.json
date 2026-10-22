@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "portfolio-projects-8-interview-questions",
+    "platform": "linkedin",
+    "input": {
+      "channelId": "6acd3690778b240e2febb64a",
+      "needsApproval": false,
+      "text": "🛠️ 𝟴 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗳𝗼𝗿 𝗮 𝗱𝗮𝘁𝗮 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘀𝘄𝗶𝘁𝗰𝗵, 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗲𝗮𝗰𝗵 𝗼𝗻𝗲 𝗴𝗲𝘁𝘀.\n\nFor a service-to-product switch in India, the projects on your resume are where the interview starts.\n\nMost portfolio advice says build more projects, or copy a big tutorial end to end. Both miss what happens next. The interviewer picks one line and asks you to defend a decision in it.\n\nSo build each project around the question it will draw. Each one below links to a free leetdata.ai problem that drills that exact question.\n\n1️⃣ 𝗡𝗶𝗴𝗵𝘁𝗹𝘆 𝗯𝗮𝘁𝗰𝗵 𝗹𝗼𝗮𝗱\n\"The feed sent 3 updates for one product. Which row wins?\"\nhttps://leetdata.ai/problems/apply-daily-upserts\n\n2️⃣ 𝗖𝗗𝗖 𝗰𝗵𝗮𝗻𝗴𝗲 𝗹𝗼𝗴\n\"Turn an append-only change log into one current row per user.\"\nhttps://leetdata.ai/problems/keep-latest-record\n\n3️⃣ 𝗖𝗹𝗶𝗰𝗸𝘀𝘁𝗿𝗲𝗮𝗺 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲\n\"Where does one session end and the next begin?\"\nhttps://leetdata.ai/problems/session-detection\n\n4️⃣ 𝗘𝘃𝗲𝗻𝘁𝘀 𝗷𝗼𝗶𝗻𝗲𝗱 𝘁𝗼 𝘂𝘀𝗲𝗿𝘀\n\"Revenue jumped after your join. Why?\"\nhttps://leetdata.ai/problems/deduplicate-before-join\n\n5️⃣ 𝗗𝗮𝗶𝗹𝘆 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝘀𝗻𝗮𝗽𝘀𝗵𝗼𝘁𝘀\n\"The job skipped days. Downstream needs one row per product per day.\"\nhttps://leetdata.ai/problems/backfill-missing-snapshots\n\n6️⃣ 𝗕𝗶𝗹𝗹𝗶𝗻𝗴 𝗽𝗹𝗮𝗻 𝗵𝗶𝘀𝘁𝗼𝗿𝘆 (𝗦𝗖𝗗 𝗧𝘆𝗽𝗲 𝟮)\n\"A customer switched plans in March. Which plan owns February?\"\nhttps://leetdata.ai/problems/scd2-effective-ranges\n\n7️⃣ 𝗢𝗿𝗱𝗲𝗿 𝗽𝗿𝗶𝗰𝗶𝗻𝗴\n\"The price changed at 10:00. The order came in at 10:05. Which price applies?\"\nhttps://leetdata.ai/problems/price-as-of-order\n\n8️⃣ 𝗗𝗮𝘁𝗮 𝗾𝘂𝗮𝗹𝗶𝘁𝘆 𝗴𝗮𝘁𝗲\n\"Which rows should never reach the dashboard?\"\nhttps://leetdata.ai/problems/validate-data-quality\n\nOne finished project you can defend beats five you can only describe. Every problem runs in SQL, Python or PySpark, with hints and an editorial. No account needed.\n\nWhich of the 8 questions would stop you today?\n\nSave this. Follow Data Engineering Weekly for more interview-ready lists.\n\n#dataengineering",
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "dueAt": "2026-10-28T08:30:00+05:30",
+      "assets": {
+        "image": {
+          "url": "https://arunask09.github.io/leetdata-media/img/portfolio-projects-8-interview-questions.gif",
+          "thumbnailUrl": "https://arunask09.github.io/leetdata-media/img/portfolio-projects-8-interview-questions.gif"
+        }
+      }
+    }
+  },
+  {
+    "slug": "join-problems-8-x",
+    "platform": "x",
+    "input": {
+      "channelId": "6acd35ab778b240e2febae5a",
+      "needsApproval": false,
+      "text": "8 join problems, in order:\n\ninner, LEFT + IS NULL, anti-join, NOT IN + NULL trap, full outer, multi-condition, date range, many-to-many.\n\nNumber 4 returns zero rows, no error.\n\nFree, in the browser:\nhttps://leetdata.ai/problems\n\n#SQL #dataengineering",
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "dueAt": "2026-10-28T08:30:00+05:30"
+    }
+  },
+  {
+    "slug": "iceberg-two-writers-quiz",
+    "platform": "linkedin",
+    "input": {
+      "channelId": "6acd3690778b240e2febb64a",
+      "needsApproval": false,
+      "text": "🧊 𝗟𝗮𝗸𝗲𝗵𝗼𝘂𝘀𝗲 𝘀𝗰𝗿𝗲𝗲𝗻𝗶𝗻𝗴 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻. 𝗡𝗼 𝘀𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴 𝗳𝗶𝗿𝘀𝘁.\n\nTwo Spark jobs append to the same Iceberg table. Both start from snapshot 41. Job A commits first.\n\nWhat happens to job B?\n\nA) Its files overwrite job A's files\n\nB) It retries its commit on top of the new snapshot, and both appends land\n\nC) The table stays broken until someone runs compaction\n\nD) Both commits succeed as two separate snapshots built on 41\n\nReply with one letter. We'll post the answer in the comments this evening.\n\n📌 𝗪𝗵𝘆 𝗶𝘁 𝗴𝗲𝘁𝘀 𝗮𝘀𝗸𝗲𝗱\nA pile of Parquet files on S3 isn't a table. In a table format the metadata decides what the table is, and every commit is one atomic metadata write. Commit races fall straight out of that.\n\nLevel 3 of the Lakehouse & Table Formats track on leetdata.ai is built around this exact race: two jobs, one table, a base snapshot that moved underneath you. Level 1 starts with a 7-minute primer and a screening quiz.\n\nhttps://leetdata.ai/paths/lakehouse\n\n#dataengineering #iceberg",
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "dueAt": "2026-10-29T16:00:00+05:30",
+      "assets": {
+        "image": {
+          "url": "https://arunask09.github.io/leetdata-media/img/iceberg-two-writers-quiz.gif",
+          "thumbnailUrl": "https://arunask09.github.io/leetdata-media/img/iceberg-two-writers-quiz.gif"
+        }
+      }
+    }
+  },
+  {
+    "slug": "iceberg-two-writers-x",
+    "platform": "x",
+    "input": {
+      "channelId": "6acd35ab778b240e2febae5a",
+      "needsApproval": false,
+      "text": "Two jobs append to one Iceberg table from snapshot 41. A commits first. B:\n\nA) overwrites A's files\nB) retries on the new snapshot, both land\nC) breaks it till compaction\nD) forks into 2 snapshots\n\nhttps://leetdata.ai/paths/lakehouse\n#dataengineering",
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "dueAt": "2026-10-29T16:00:00+05:30"
+    }
+  },
+  {
+    "slug": "job-hunt-jd-eleven-tools",
+    "platform": "linkedin",
+    "input": {
+      "channelId": "6acd3690778b240e2febb64a",
+      "needsApproval": false,
+      "text": "😅 𝗗𝗮𝘁𝗮 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗷𝗼𝗯 𝗵𝘂𝗻𝘁, 𝗮𝘀 𝘁𝗼𝗹𝗱 𝗯𝘆 𝘁𝗵𝗲 𝗿𝗲𝗰𝗿𝘂𝗶𝘁𝗲𝗿 𝗰𝗮𝗹𝗹.\n\n\"Comfortable with Spark?\"\nYes.\n\n\"Kafka?\"\nYes.\n\n\"Airflow, dbt, Snowflake, Iceberg, Flink?\"\nI've… read the docs.\n\n\"Perfect. First round is SQL.\"\nWait. What about Spark?\n\nJD mein 11 tools, first round mein CASE WHEN. Every week.\n\nThe tool list is what gets the call. The opener is still a GROUP BY, a CASE WHEN that checks the highest threshold first, and a blank that isn't NULL.\n\nIf that's your next round, the \"Start here\" set on leetdata.ai is the 8 SQL problems an interviewer opens with, about 20 minutes end to end. No account needed.\n\nWhich tool has been on every JD you've read this month?\n\nhttps://leetdata.ai/problems\n\n#dataengineering",
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "dueAt": "2026-10-31T09:00:00+05:30",
+      "assets": {
+        "image": {
+          "url": "https://arunask09.github.io/leetdata-media/img/job-hunt-jd-eleven-tools.gif",
+          "thumbnailUrl": "https://arunask09.github.io/leetdata-media/img/job-hunt-jd-eleven-tools.gif"
+        }
+      }
+    }
+  },
+  {
+    "slug": "data-cleaning-6-problems-sunday",
+    "platform": "linkedin",
+    "input": {
+      "channelId": "6acd3690778b240e2febb64a",
+      "needsApproval": false,
+      "text": "🧹 𝟲 𝗱𝗮𝘁𝗮-𝗰𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 \"𝘁𝗵𝗶𝘀 𝘀𝗼𝘂𝗿𝗰𝗲 𝗱𝗮𝘁𝗮 𝗶𝘀 𝗮 𝗺𝗲𝘀𝘀\" 𝗿𝗼𝘂𝗻𝗱.\n\nOne Sunday morning's worth. DE interviews like a dirty table, because real pipelines start with one. Each of these is a free problem on leetdata.ai:\n\n1️⃣ Column NULL Audit: profile a lead list before you trust it, NULL count and % per column\n\n2️⃣ Fix Mixed-Case Join Keys: ' ACME CORP ', 'acme corp' and 'Acme corp ' are one account\n\n3️⃣ Mixed Date Formats: '2024-03-05', '03/25/2024' and '2024/03/19' in the same column\n\n4️⃣ Normalize Mixed Units: kg, lb and g, totalled per warehouse in kilograms\n\n5️⃣ Clean Product Codes: split ELEC-10042-XL, and 00317 has to become 317\n\n6️⃣ Dedupe, Keep the Most Complete Row: same email, keep the copy with the fewest NULLs\n\n⚠️ 𝗡𝘂𝗺𝗯𝗲𝗿 𝟲 𝗶𝘀 𝘁𝗵𝗲 𝗼𝗻𝗲 𝘁𝗼 𝘁𝗮𝗹𝗸 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗼𝘂𝘁 𝗹𝗼𝘂𝗱.\n\"Keep any one\" throws data away. Score each row by how many fields are filled, keep the highest, and break ties on the lowest contact_id. Say the tie-break before you write the query.\n\nHints and an editorial on every one. SQL runs in your browser, no signup.\n\n📌 Save this for a slow Sunday.\n\nhttps://leetdata.ai/problems\n\n#dataengineering #sql",
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "dueAt": "2026-11-01T10:00:00+05:30",
+      "assets": {
+        "image": {
+          "url": "https://arunask09.github.io/leetdata-media/img/data-cleaning-6-problems-sunday.gif",
+          "thumbnailUrl": "https://arunask09.github.io/leetdata-media/img/data-cleaning-6-problems-sunday.gif"
+        }
+      }
+    }
+  }
+]
